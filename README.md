@@ -2,9 +2,9 @@
 
 🔭 I’m currently working for https://www.hoggo.com/
 
- <details>
-    <summary>Manual</summary>
-    Clone the repo and drag and drop the files into your project.
+<details>
+    <summary>This is a ReadMe playground</summary>
+    HOLA !
 </details>
 <!--
 **PiRB/PiRB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
