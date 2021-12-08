@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hello there 🧔🏼
 
-🔭 I’m currently working for https://www.hoggo.com/
+🔭 I’m working for https://www.hoggo.com/
 
 <details>
     <summary>This is a ReadMe playground</summary>
